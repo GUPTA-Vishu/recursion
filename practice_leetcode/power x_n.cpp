@@ -5,6 +5,8 @@ public:
         return 1;
 
       }
+
+      //initialize the int n to long long ln
     long long ln=n;
      if(ln%2==0){
        
